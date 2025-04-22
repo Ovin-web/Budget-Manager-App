@@ -1,0 +1,44 @@
+{
+    "income": [
+        {
+            "amount": 370000.0,
+            "source": "School Stipend",
+            "date": "2025-04-23"
+        }
+    ],
+    "expenses": [
+        {
+            "amount": 100000.0,
+            "category": "Food",
+            "date": "2025-04-24"
+        },
+        {
+            "amount": 45000.0,
+            "category": "Bundles",
+            "date": "2025-04-24"
+        },
+        {
+            "amount": 30000.0,
+            "category": "Transport",
+            "date": "2025-04-26"
+        },
+        {
+            "amount": 30000.0,
+            "category": "Water",
+            "date": "2025-04-27"
+        },
+        {
+            "amount": 35000.0,
+            "category": "DEBT",
+            "date": "2025-04-27"
+        }
+    ],
+    "savings": [
+        {
+            "goal": "100000",
+            "amount": 100000.0
+        }
+    ],
+    "budget_limit": 300000.0,
+    "currency": "USD"
+}
